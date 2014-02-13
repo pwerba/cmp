@@ -3,7 +3,7 @@ layout: bio
 categories: staff
 title: Irma Rangel
 position: Department Assistant
-email_prefix: Irmay.Rangel
+email_prefix: Irma.Rangel
 email_suffix: ucsf, edu
 phone: 415 514-9746
 fax: 415 476-5292
