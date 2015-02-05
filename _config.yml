@@ -20,5 +20,5 @@ pubmed_link : "http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&amp=&term=((Correia
 # ('RSS' link at top right under search box)
 # and these two variable should be changed in conjunction
 # when the faculty names need to be updated
-pubmed_rss : "http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1x3FUw-Ho0YKCMs4RUwSXi2K4QA2fNXo5hLScAsduzXTOsYEU_"
+pubmed_rss : "http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1Zi2AdWYRHLCFrH0oSVyhSQ-LAQ8T2NB8zv8EWIMikIZ_G9E9M"
 

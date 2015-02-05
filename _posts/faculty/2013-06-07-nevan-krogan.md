@@ -5,11 +5,13 @@ title: Nevan Krogan
 position: Professor
 email_prefix: nevan.krogan
 email_suffix: ucsf, edu
-phone: 476 476-2980
+phone: 415 476-2980
 fax: 
-website: 
+website: http://kroganlab.ucsf.edu/
 address: 1700 4th Street, MC 2530</br>Byers Hall, Room 308D</br>San Francisco, CA 94158-2530
-info: Administrative Assistant</br>Aileen Patterson</br>415 514-4847 </br><span class="e">aileen.paterson / ucsf, edu</span>
+info: Assistant Director</br>Linda Reilly</br>415 514-4847 </br><span class="e">linda.reilly / ucsf, edu</span></br>Grant Writer, Krogan Lab<br>Aileen Paterson<span class="e">aileen.paterson / ucsf, edu</span>
+
+
 image: krogan.jpg
 ---
 

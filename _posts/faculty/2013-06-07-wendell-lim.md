@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Wendell Lim
-position: Professor and Vice Chair
+position: Professor and Chair
 email_prefix: wendell.lim
 email_suffix: ucsf, edu
 phone: 415 502-8080

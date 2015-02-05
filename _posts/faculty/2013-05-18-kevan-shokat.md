@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Kevan Shokat
-position: Professor and Chair
+position: Professor
 email_prefix: Kevan.Shokat	
 email_suffix: ucsf, edu
 phone: 415 514-0472

@@ -3,3 +3,4 @@ _site/
 assets/css/
 .DS_Store
 CNAME
+_config.yml

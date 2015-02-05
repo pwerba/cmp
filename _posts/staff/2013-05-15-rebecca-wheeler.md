@@ -2,7 +2,7 @@
 layout: bio
 categories: staff
 title: Rebecca Wheeler
-position: Assistant to Danica Fujimori and Shawn Douglas; Department Post-Award Analyst
+position: Assistant to Danica Fujimori and Shawn Douglas 
 email_prefix: rebecca.wheeler
 email_suffix: ucsf, edu
 phone: 415 514-1283
