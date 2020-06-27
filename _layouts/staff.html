@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<section class="row">
+<div class="col five tablet-five mobile-full" id="details">
+
+    <h2>{{ page.title }}</h2>
+    {% if page.position %}<h4> {{ page.position }}</h4>{% endif %}
+
+    <br><br><br>
+
+        {% if page.image %}
+        <img src="{{BASE_PATH}}/assets/images/staff/{{page.image}}" />
+        {% endif %}
+    <p>
+    {% if page.website %}Website: <a target="_blank" href="{{page.website}}">{{page.website}}</a></br>{% endif %}
+
+    {% if page.email_suffix %}Email: <span class="e"> {{ page.email_prefix }} / {{ page.email_suffix }} </span>{% endif %}
+    </p>
+
+    {% if page.address %}<p>{{page.address}}</p>{% endif %}
+    {% if page.phone %}<p>Phone: {{page.phone}}</p>{% endif %}
+    {% if page.fax %}<p>Fax: {{page.fax}}</p>{% endif %}
+    {% if page.info %}<p>{{page.info}}</p>{% endif %}
+
+</div>
+
+<div class="col seven tablet-seven mobile-full">
+
+    {{ content }}
+
+</div>
+</section>

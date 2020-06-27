@@ -9,7 +9,7 @@ phone: 415 476-2018
 fax: 
 website: http://nicolllab.ucsf.edu/
 address: 600 16th Street, MC 2140</br>Genentech Hall, Room 276D</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant</br>Lissette Irizarry</br>415 476-8416</br><span class="e">lissette.irizarry / ucsf, edu</span>
+info: Administrative Assistant</br>Laura Wise</br>415 476-8416</br><span class="e">laura.wise / ucsf, edu</span>
 image: nicoll.jpg
 ---
 

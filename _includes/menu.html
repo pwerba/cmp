@@ -14,17 +14,15 @@
 			    <ul>
 					<li><a href="{{BASE_PATH}}/pages/faculty"><span>Faculty</span></a></li>
 					<li><a href="{{BASE_PATH}}/pages/faculty/affiliated.html">Affiliated Faculty</a></li>
-					<li><a href="{{BASE_PATH}}/pages/faculty/publications.html">Publications</a></li>
-					
+					<li><a href="{{BASE_PATH}}/pages/faculty/publications/index.html">Publications</a></li>
+
 					<li> <a href="{{BASE_PATH}}/pages/teaching">Teaching</a> </li>
-       
-            		<li> <a href="{{BASE_PATH}}/pages/ccbgrad">CCB Grad Program</a>  </li>
-            
+                   
             		<li><a href="{{BASE_PATH}}/pages/postdocs">Post-Doc Scholars</a> </li>
-            
+
             		<li> <a href="{{BASE_PATH}}/pages/students">Grad Students</a> </li>
-            
-	            		
+
+
 				</ul>
 		    </div>
 		    <div class="col six mobile-full">
@@ -48,8 +46,8 @@
 			<p class="headline">Latest Posts <a>atom</a><a>rss</a></p>
 			<ul>
 				{% for post in site.categories.blog limit:5 %}
-				<li> 
-					<span><a href="{{ post.url }}">{{ post.title }} 
+				<li>
+					<span><a href="{{ post.url }}">{{ post.title }}
 					<time> &raquo; {{ post.date | date_to_string }}</time></a> </span>
 
 				</li>
@@ -60,7 +58,7 @@
 		<div class="cf"></div>
         <p class="nav-close"><span><i class="icon-up-open-mini"></i>close navigation menu<i class="icon-up-open-mini"></i></span></p>
 	</div>
-    
+
 </nav>
 
 <div class="top-margin">&nbsp;</div>
