@@ -2,17 +2,19 @@
 layout: page
 category: page
 title: Department of Cellular and Molecular Pharmacology
---- 
+---
 
 ### Chair:
 
-[Wendell Lim]({{ BASE_URL }}/faculty/wendell-lim)
+[Dyche Mullins]({{ BASE_URL }}/faculty/dyche-mullins)
 
 ### Vice Chairs:
 
-[Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)<br>
-[Jonathan Weissman]({{ BASE_URL }}/faculty/jonathan-weissman)<br>
-[Holly Ingraham]({{ BASE_URL }}/faculty/holly-ingraham)
+[Danica Fujimori]({{ BASE_URL }}/faculty/danica-galonic-fujimori)<br>
+[Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)
+
+### Chief Administrative Officer:
+[Mia Morgan]({{ BASE_URL }}/staff/mia-morgan)
 
 ### Address
 
@@ -22,7 +24,7 @@ Mission Bay Campus<br>
 Genentech Hall, Room S-222<br>
 San Francisco, CA 94158-2140<br>
 
-<p><i class="icon-phone">&nbsp;</i> 415 476-514-9746<br>
+<p><i class="icon-phone">&nbsp;</i> 415 476-9000<br>
 <i class="icon-print">&nbsp;</i> Fax: 415 476-5292</p>
 
 

@@ -1,5 +1,6 @@
 _site/
 .sass-cache/
+.jekyll-cache/
 assets/css/
 .DS_Store
 CNAME

@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Almira Correia
-position: Professor
+position: Professor Emeritus
 email_prefix: almira.correia
 email_suffix: ucsf, edu
 phone: 415 476-3992

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Two PhD students win Weintraub Award"
+title:  "Two students win Weintraub Awards"
 date:   2015-02-22 10:00:00
 category: blog
 published: true

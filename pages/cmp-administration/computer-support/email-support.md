@@ -13,10 +13,10 @@ all Staff, Faculty, Students and Post-docs.
 
 - your UCSF payroll name
 - your UCSF employee ID (NOTE: HHMI employees are assigned a special one for this purpose)
-- your current email (An email address where we can contact you with your infomation)
+- your current email (An email address where we can contact you with your information)
 - your lab or group that you are associated with
 
-Information about UCSF email services can be found here link <http://it.ucsf.edu/services/accounts>
+information about UCSF email services can be found here link <http://it.ucsf.edu/services/accounts>
 
 
 
